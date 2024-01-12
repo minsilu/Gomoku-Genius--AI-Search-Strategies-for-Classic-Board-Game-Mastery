@@ -1,0 +1,4 @@
+player1: MCTSPlayer, player2: CuttingOffAlphaBetaSearchPlayer, play1_win: 1, play2_win: 8, tie: 1 
+player1: CuttingOffAlphaBetaSearchPlayer, player2: MCTSPlayer, play1_win: 9, play2_win: 1, tie: 0 
+player1: MCTSPlayer, player2: AlphaZeroPlayer, play1_win: 1, play2_win: 8, tie: 1 
+player1: AlphaZeroPlayer, player2: MCTSPlayer, play1_win: 10, play2_win: 0, tie: 0 

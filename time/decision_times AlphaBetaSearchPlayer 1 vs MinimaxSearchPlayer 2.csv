@@ -1,0 +1,11 @@
+Player,Step,Decision Time
+AlphaBetaSearchPlayer 1,1,2.084071636199951
+AlphaBetaSearchPlayer 1,3,0.3583643436431885
+AlphaBetaSearchPlayer 1,5,0.0060002803802490234
+AlphaBetaSearchPlayer 1,7,0.0019998550415039062
+MinimaxSearchPlayer 2,2,642.2064695358276
+MinimaxSearchPlayer 2,4,5.326788902282715
+MinimaxSearchPlayer 2,6,0.07800674438476562
+Player,Total Time
+AlphaBetaSearchPlayer 1,2.4504361152648926
+MinimaxSearchPlayer 2,647.6112651824951
